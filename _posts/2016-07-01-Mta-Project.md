@@ -3,7 +3,7 @@ layout: post
 title: MTA Project
 ---
 
-## There's Nothing Like Summer in the City!
+# There's Nothing Like Summer in the City!
   
 I just finished my first week at Metis, a twelve week data science bootcamp in New York City.  
   
@@ -11,10 +11,10 @@ I just finished my first week at Metis, a twelve week data science bootcamp in N
 
 My cohort and I just completed our first project based off of subway turnstile data.  
   
-# The Premise  
+## The Premise  
 An organization promoting the increased participation of women in tech reached out to us about their summer gala. Using MTA turnstile data, they wanted us to fill the gala space with individuals passionate about increasing the participation of women in technology, and to concurrently build awareness and reach. They had planned to place canvassers near subway stations and collect emails of people interested in the event.  
   
-# My Group's Approach  
+## My Group's Approach  
 We thought that the best way to increase awareness and attendance was to place the canvassers near the busiest subway stations at peak times and stations near large tech companies. People who work at tech companies will be the most useful demographic to target since people who work in tech are interested in tech and understand the current gender imbalance in the industry. (In other words, people who are most likely to fill the gala room.)  
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
