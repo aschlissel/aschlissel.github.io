@@ -35,6 +35,6 @@ Below is an image of some of the largest tech firms mapped:
 Our Group recommended that the canvassers should place themselves at the top 10 busiest subway stations at peak hours (8am-12pm, 4pm-8pm) on weekdays and at the top 20 busiest subway stations that correspond to large tech firms at all times on weekdays.  
 
 ## Happy Fourth of July!  
-![Alt Text](http://toofunktastic.tumblr.com/post/139387792562/ham4elmo)
+![Alt Text](http://67.media.tumblr.com/ed81014194e47986519b049cb429141d/tumblr_o2m5cfi2nT1ssx5o9o6_400.gif)
 
 
