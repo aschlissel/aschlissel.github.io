@@ -19,10 +19,22 @@ We thought that the best way to increase awareness and attendance was to place t
 
 ## Busiest Subways at Peak Times  
 Using subway turnstile data available to the public, my group and I calculated the busiest subway times and their peak times. Below are the top 10 busiest subways according to our data:  
-![Alt Text](https://files.slack.com/files-pri/T1AJ01YV9-F1N64F1AM/pasted_image_at_2016_07_01_11_10_am.png)
+![Alt Text](https://files.slack.com/files-pri/T1AJ01YV9-F1N64F1AM/pasted_image_at_2016_07_01_11_10_am.png)  
+  
+After that, we calculated the peak hours when people go on trains.
 
+![Alt Text](https://files.slack.com/files-tmb/T1AJ01YV9-F1N66UDKN-b8150b28cd/pasted_image_at_2016_07_01_12_21_pm_1024.png)
+
+## Stations Near Tech Offices  
+We assumed that the people who would be most interested in the cause were people who worked in tech. Thus, we obtained the latitude and longitude coordinates of some of the largest tech firms in NYC and calculated the closest subway stations using the Haversine forumula. We thought it would be most efficient for the canvassers to place themselves at the top 20 subway stations that correspond to a nearby large tech firm (0.5 km apart or less) at all times during the weekdays.  
+
+Below is an image of some of the largest tech firms mapped: 
 ![Alt Text](https://files.slack.com/files-pri/T1AJ01YV9-F1N6G4HS4/firms_final.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Our Recommendation  
+Our Group recommended that the canvassers should place themselves at the top 10 busiest subway stations at peak hours (8am-12pm, 4pm-8pm) on weekdays and at the top 20 busiest subway stations that correspond to large tech firms at all times on weekdays.  
+
+## Happy Fourth of July!  
+![Alt Text](http://toofunktastic.tumblr.com/post/139387792562/ham4elmo)
 
 
