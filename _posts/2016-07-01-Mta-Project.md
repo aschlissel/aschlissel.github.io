@@ -17,6 +17,10 @@ An organization promoting the increased participation of women in tech reached o
 ## My Group's Approach  
 We thought that the best way to increase awareness and attendance was to place the canvassers near the busiest subway stations at peak times and stations near large tech companies. People who work at tech companies will be the most useful demographic to target since people who work in tech are interested in tech and understand the current gender imbalance in the industry. (In other words, people who are most likely to fill the gala room.)  
 
+## Busiest Subways at Peak Times  
+Using subway turnstile data available to the public, my group and I calculated the busiest subway times and their peak times. Below are the top 10 busiest subways according to our data:  
+https://files.slack.com/files-pri/T1AJ01YV9-F1N64F1AM/pasted_image_at_2016_07_01_11_10_am.png
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 
