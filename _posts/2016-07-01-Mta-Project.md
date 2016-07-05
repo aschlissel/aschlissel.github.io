@@ -19,7 +19,7 @@ We thought that the best way to increase awareness and attendance was to place t
 
 ## Busiest Subways at Peak Times  
 Using subway turnstile data available to the public, my group and I calculated the busiest subway times and their peak times. Below are the top 10 busiest subways according to our data:  
-![Image Alt](https://summer-nyc16-metis.slack.com/files/sethkaufee/F1N64F1AM/pasted_image_at_2016_07_01_11_10_am.png)
+![Image Alt](https://files.slack.com/files-pri/T1AJ01YV9-F1N6G4HS4/firms_final.png)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
