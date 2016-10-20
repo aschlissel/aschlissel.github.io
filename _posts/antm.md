@@ -13,5 +13,21 @@ Which begs the question:
 In other words, is the presidential election as candidate-centric and campaign-centric as it seems? What if none of that matters at all?  
 
 My goal was to predict how a county voted in the 2008 election purely based on that county's demographics. I used census data because that was the most far-removed data from politics I could think of. I also chose to exclude how a county voted in the previous general election. Although that data would have improved my model's accuracy, in keeping with the spirit of my project, I thought it was best to use data independent of politics. I used the 2008 election because that was the most recent non-incumbent election, for incumbency tends to influence voters (usually in favor of the incumbent).  
+
+## The Data  
+I used demographic data from the American Community Survey, which is associated with the US Census. The ACS has hundreds of demographic points for counties with a population of 5,000 or greater. 
   
-### The Technical Stuff  
+## The Technical Side  
+I used **supervised machine learning classification algorithm** to predict if a county will vote Democrat or Republican in the 2008 presidential election. Let's break that down: a classification problem simply means that the outcome is in either one of two categories. For example, 0 or 1, true or false, Republican or Democrat, etc. A supervised machine learning is an algorithm that maps an input(data) to an output. It is called 'supervised' because the algorithm already has the answers (output), but wants to learn how to get to the correct answer using the input. To do this, the algorithm randomly separates the data into a training set (usually about 80%) and a test set (usually about 20%). It then iteratively makes predictions on the training set and stops learning once it reaches the highest score. After that, the algorithm 'tests' what it has learned from the training set on the test set.  
+
+I tried used four popular supervised learning algorithms: logistic regression, K nearest neighbors, SVC, and Random Forest. The best results came from Random Forest. The Random Forest algorithm is based off the Decision Tree Algorithm, which is composed of decision attributes and each decision leads to a new node until you get the proper classification. Decision trees are great for interpretability of results, but can lead to overfitting. When your model overfits, it has trained too well on the data it has and cannot generalize enough to perform well on the new (test) data.  
+  
+Which is where Random Forest is most helpful. Rather than one single tree, there are multiple trees split at random. While each tree may not predict well on its own, when combined, the forest is a much stronger prediction.  
+
+## The Results  
+  
+**My model predicted how a county will vote in the 2008 presidential election with 80% solely using county demographics.**  
+  
+Since I ultimately used a Random Forest supervised learning algorithm, it was relatively easy to find out which demographic predictors were the most important. This was the number one predictor:
+
+![Alt Text] (https://media.giphy.com/media/6dSjroichY3MA/giphy.gif)
