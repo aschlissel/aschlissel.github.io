@@ -36,4 +36,9 @@ And this was the number two predictor:
 
 ![Alt Text] (https://media.giphy.com/media/6dSjroichY3MA/giphy.gif)
 
-That's right! Single women were the number one predictor of how a county will vote
+That's right! The amount of married women and single women in a county were the two most important predictors of how a county will vote! To see the top ten predictors, check out my .pdf slides on my github page, and for all of the predictors ranked, check out my github code.  
+  
+github presentation slides: https://github.com/aschlissel/americas_next_top_model/blob/master/project_antm_slides.pdf  
+github code: https://github.com/aschlissel/americas_next_top_model/blob/master/project_antm_code.ipynb  
+  
+Happy election day! 
