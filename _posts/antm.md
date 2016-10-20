@@ -30,4 +30,10 @@ Which is where Random Forest is most helpful. Rather than one single tree, there
   
 Since I ultimately used a Random Forest supervised learning algorithm, it was relatively easy to find out which demographic predictors were the most important. This was the number one predictor:
 
+![Alt Text] (https://media.giphy.com/media/l3V0v94lwRp8EOiFq/giphy.gif)  
+
+And this was the number two predictor:
+
 ![Alt Text] (https://media.giphy.com/media/6dSjroichY3MA/giphy.gif)
+
+That's right! Single women were the number one predictor of how a county will vote
