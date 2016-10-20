@@ -1,3 +1,8 @@
+---
+layout: post
+title: America Votes (very soon)!
+---
+
 America Votes (very soon)!  
   
 I've always had a strong interest in government and politics (I majored in political science!). Ever since I can remember, I have followed every election closely, down to the local level. So every four years when the presidential election rolls around, I'm glued to the news like
