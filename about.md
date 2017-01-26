@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+Welcome! My name is Allison Schlissel. I recently graduated from Metis Data Science and I'm excited about data! 
+When I'm not coding, you can spot me as the last millenial reading print magazines (I like turning pages!) :sunglasses:
+  
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[LinkedIn](https://www.linkedin.com/in/allisonschlissel)
